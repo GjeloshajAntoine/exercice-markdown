@@ -12,7 +12,7 @@
 * une image
 * du code comme ceci
 
-##Voici un code:
+## Voici un code:
 
     int main()
     {

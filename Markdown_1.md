@@ -52,7 +52,7 @@ Pour créer un lien, vous devez placer le texte du lien entre crochets suivis de
 
 <em>Ce qui donne<em> :
 
-Rendez-vous sur le [Github](Markdown_2.md) pour tout apprendre à partir de Zéro !
+Rendez-vous sur le site de [Github](Markdown_2.md) pour tout apprendre à partir de Zéro !
 
 <em>Donc<em> :
 

@@ -1,4 +1,4 @@
-Le **markdown** est un système de formatage de texte minimaliste. Il est de plus en plus utilisé. C'est un système d'édition et de formatage de texte. Dans ce document, nous allons découvrir les fonctionnalités de base. 
+Le **markdown** est un système de formatage de texte minimaliste. Il est de plus en plus utilisé. C'est un système d'édition et de formatage de texte. Dans ce document, nous allons découvrir les fonctionnalités de base.
 
  Vous trouverez ci-dessous l'explication des fonctionnalités suivantes:
 
@@ -25,3 +25,5 @@ Le **markdown** est un système de formatage de texte minimaliste. Il est de plu
 1. En cas de rush, la liste ordonnée vous permettra de prioriser les tâches.
 2. Très utile pour expliquer les marches à suivre d'un programme ou d'une activité.
 3. Son esthétisme numérique ravira le matheux qui sommeille en vous.
+
+Pour en savoir plus sur le sujet n'hésitez pas à consulter le [document suivant](Markdown_2.md)

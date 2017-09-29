@@ -1,5 +1,6 @@
 # Partie 2 du mémo markdown
 ###### Nous revoila pour continuer ce petit bout de mémo
+*Si vous vous vooulez retourner à la  [La premiere partie](Markdown_1.md)*
 
 ## Afficher une image
 Un texte stylisé,c'est déjà trés beau mais on peut encore mieux , comme afficher une image !
@@ -22,5 +23,3 @@ Vous savez déjà le faire ! Il vous suffit de suivre la même procédure que pr
 ![Alt](https://mir-s3-cdn-cf.behance.net/project_modules/disp/cbc69a17085171.562b572169e35.gif)
 ```
 ![Alt](https://mir-s3-cdn-cf.behance.net/project_modules/disp/cbc69a17085171.562b572169e35.gif)
-
-[La premiere partie](Markdown_1.md)

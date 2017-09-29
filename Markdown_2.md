@@ -1,3 +1,4 @@
+=======
 # Partie 2 du mémo markdown
 ###### Nous revoila pour continuer ce petit bout de mémo
 *Si vous vous vooulez retourner à la  [La premiere partie](Markdown_1.md)*
@@ -23,3 +24,32 @@ Vous savez déjà le faire ! Il vous suffit de suivre la même procédure que pr
 ![Alt](https://mir-s3-cdn-cf.behance.net/project_modules/disp/cbc69a17085171.562b572169e35.gif)
 ```
 ![Alt](https://mir-s3-cdn-cf.behance.net/project_modules/disp/cbc69a17085171.562b572169e35.gif)
+
+[partie1](Markdown_1)
+
+-------------------
+
+
+
+
+# Partie 2 du mémo Markdown
+![Image of Markdown_1](http://pad.haroopress.com/docs/en/markdown/images/markdown_128.png)
+
+
+
+## contenu des points abordés
+
+* liste à puce
+* liste à puces
+    * Une liste à puce imbriquée
+    * Une
+* une image
+* du code comme ceci
+
+##Voici un code:
+
+    int main()
+    {
+        printf("Hello world!\n");
+        return 0;
+    }

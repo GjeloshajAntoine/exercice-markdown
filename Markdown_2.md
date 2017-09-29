@@ -14,5 +14,11 @@ Vous voulez savoir comment faire , c'est trés simple , il faut vous faut :
 - l'adresse dans une parenthese
 
 ```
-![Alt](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Alt](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 ```
+## Une image animée
+Vous savez déjà le faire ! Il vous suffit de suivre la même procédure que précédemment à la différence près qu'il vous faudra juste mettre un gif en lien !
+```
+![Alt](https://mir-s3-cdn-cf.behance.net/project_modules/disp/cbc69a17085171.562b572169e35.gif)
+```
+![Alt](https://mir-s3-cdn-cf.behance.net/project_modules/disp/cbc69a17085171.562b572169e35.gif)

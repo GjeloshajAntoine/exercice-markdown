@@ -89,7 +89,9 @@ Pour en savoir plus sur le sujet n'hésitez pas à consulter le [document suivan
 <br>
 
 
-<em>Donc<em> :
+<em>Donc<em> :Pour créer des liens (balise HTML <`a`>) :
+
+[texte du lien]`("url_du_lien "texte pour le titre, facultatif")`
 
 ## Emphase
 
@@ -107,7 +109,3 @@ Pour en savoir plus sur le sujet n'hésitez pas à consulter le [document suivan
 
 * ~~Barré~~ : entourez de double tildes ( ~~ )   
 * Pour que ces symboles ne soient pas pris en compte et simplement affichés, précédez d'un antislash ( \\ )
-
-Pour créer des liens (balise HTML <`a`>) :
-
-[texte du lien]`("url_du_lien "texte pour le titre, facultatif")`

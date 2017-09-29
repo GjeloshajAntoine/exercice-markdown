@@ -1,4 +1,3 @@
-Delphine
 Le **markdown** est un système de formatage de texte minimaliste. Il est de plus en plus utilisé. C'est un système d'édition et de formatage de texte. Dans ce document, nous allons découvrir les fonctionnalités de base.
 
  Vous trouverez ci-dessous l'explication des fonctionnalités suivantes:
@@ -92,8 +91,23 @@ Pour en savoir plus sur le sujet n'hésitez pas à consulter le [document suivan
 
 <em>Donc<em> :
 
+## Emphase
+
+* _Italique_ :
+  * \_entourez d'underscore\_ <br/>
+  ou <br/>
+  * \*entourez d'astérisques\*
+
+* __Gras__ :
+  * \__entourez de double underscores\__ <br/>
+  ou <br/>
+  * \*\* entourez de double astérisques\*\*
+
+* *__Combinaison__* __gras__/*italique* possibles
+
+* ~~Barré~~ : entourez de double tildes ( ~~ )   
+* Pour que ces symboles ne soient pas pris en compte et simplement affichés, précédez d'un antislash ( \\ )
 
 Pour créer des liens (balise HTML <`a`>) :
 
 [texte du lien]`("url_du_lien "texte pour le titre, facultatif")`
-laureen

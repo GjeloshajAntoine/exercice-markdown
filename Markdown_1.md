@@ -46,6 +46,17 @@ Pour créer des tableaux (balises HTML <`tr`> et <`th`>)
 ---------
 
 Pour créer un lien, vous devez placer le texte du lien entre crochets suivis de l'URL entre parenthèses :
+
+`Rendez-vous sur [Github](Markdown2.md) pour tout apprendre apprendre à partir de Zéro !`
+<br>
+
+<em>Ce qui donne<em> :
+
+Rendez-vous sur le [Github](Markdown_2.md) pour tout apprendre à partir de Zéro !
+
+<em>Donc<em> :
+
+
 Pour créer des liens (balise HTML <`a`>) :
 
 [texte du lien]`("url_du_lien "texte pour le titre, facultatif")`

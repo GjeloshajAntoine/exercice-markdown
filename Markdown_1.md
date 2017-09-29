@@ -27,7 +27,6 @@ Le **markdown** est un système de formatage de texte minimaliste. Il est de plu
 2. Très utile pour expliquer les marches à suivre d'un programme ou d'une activité.
 3. Son esthétisme numérique ravira le matheux qui sommeille en vous.
 
-Pour en savoir plus sur le sujet n'hésitez pas à consulter le [document suivant](Markdown_2.md)
 
 # Titres
 ---------
@@ -46,11 +45,16 @@ Les titres sont créés avec un certain nombre de # avant le titre, qui correspo
 <br>
 Pour les deux premiers niveaux de titre (<`h1`> et <`h2`>), il est également possible de souligner le titre avec des = ou des - (leur nombre réel importe peu, mais il doit être supérieur à 2).
 
-`Titre de niveau 1`
-`=====================`
+<br>
+<br>
+Titre de niveau 1
 
-`Titre de niveau 2`
-`-------------------`
+=====================
+<br>
+<br>
+Titre de niveau 2
+-------------------
+<br>
 
 # Tableaux
 -----------
@@ -78,12 +82,13 @@ Pour créer des tableaux (balises HTML <`tr`> et <`th`>)
 
 Pour créer un lien, vous devez placer le texte du lien entre crochets suivis de l'URL entre parenthèses :
 
-`Rendez-vous sur [Github](Markdown2.md) pour tout apprendre apprendre à partir de Zéro !`
-<br>
+`Pour en savoir plus sur le sujet n'hésitez pas à consulter le [document suivant.](Markdown_2.md)`
 
 <em>Ce qui donne<em> :
 
-Rendez-vous sur le site de [Github](Markdown_2.md) pour tout apprendre à partir de Zéro !
+Pour en savoir plus sur le sujet n'hésitez pas à consulter le [document suivant.](Markdown_2.md)
+<br>
+
 
 <em>Donc<em> :
 

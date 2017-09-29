@@ -1,4 +1,8 @@
-Le <strong>markdown</strong> est un système de formatage de texte minimaliste. Il est de plus en plus utilisé. C'est un système d'édition et de formatage de texte. <br> Dans ce document, nous allons découvrir les fonctionnalités de base. <br> Vous trouverez ci-dessous l'explication des fonctionnalités suivantes:<br>
+Le **markdown** est un système de formatage de texte minimaliste. Il est de plus en plus utilisé. C'est un système d'édition et de formatage de texte. Dans ce document, nous allons découvrir les fonctionnalités de base. 
+
+ Vous trouverez ci-dessous l'explication des fonctionnalités suivantes:
+
+
 * une liste à puces
 * une liste numérotée
 * 2 ou 3 niveaux de titres et sous-titres
